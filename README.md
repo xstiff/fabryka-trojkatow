@@ -1,5 +1,5 @@
-<h3>Kategoria: Gremliny (Szkoła Średnia) </h3> 
-<h3>Język programowania: C++/Python </h3> 
+<h6>Kategoria: Gremliny (Szkoła Średnia) </h3> 
+<h6>Język programowania: C++/Python </h3> 
 
 <h3 style="color:red;" align="center">Fabryka trójkątów</h3> 
 
