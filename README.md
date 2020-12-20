@@ -10,6 +10,6 @@ Aby w pełni ocenić powagę sytuacji, kierownik postanowił sprawdzić ile tró
   <h3 style="color:red;" align="center">Zadanie</h3> 
 Wyznacz maksymalną liczbę różnych trójkątów, które można zbudować z różnych boków o długościach całkowitych pochodzących z zadanego przedziału [x, y]. 
 
- <h3 style="color:red;" align="center"> Opis wejscia ´ </h3> 
+ <h3 style="color:red;" align="center"> Opis wejscia  </h3> 
 Na standardowym wejściu znajdują się dwie liczby całkowite x, y zapisane w oddzielnych wierszach (0 < x < y < 10 000), określające krańce przedziału, z którego pochodzą długości odcinków do konstrukcji trójkątów. 
 
